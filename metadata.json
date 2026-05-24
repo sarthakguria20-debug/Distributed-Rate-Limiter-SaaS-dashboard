@@ -1,0 +1,8 @@
+{
+  "name": "Limitless - Rate Limiter SaaS",
+  "description": "Distributed Rate Limiter SaaS Dashboard simulating traffic and algorithms like Token Bucket and Sliding Window.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
